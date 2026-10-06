@@ -1,6 +1,3 @@
-# Name: Maxim Circiumaru, Student Number: 35644
-# CSC1021 SimpleShell Stage 1
-
 simpleshell: src/simpleshell.c src/utility.c src/simpleshell.h
 	gcc -Wall src/simpleshell.c src/utility.c -o bin/simpleshell
 

@@ -1,10 +1,3 @@
-/*
-Name: Maxim Circiumaru
-Student Number: 35644
-
-CSC1021 Operating Systems
-Utility functions for SimpleShell
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -246,8 +239,4 @@ else
         // If dont_wait is 1 parent continues immediately 
     }
 }
-/*
-Name: Maxim Circiumaru
-Student Number: 35644
-I confirm this work complies with the DCU Academic Integrity Policy.
-*/
+

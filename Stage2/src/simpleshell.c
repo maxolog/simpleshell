@@ -1,10 +1,3 @@
-/*
-Name: Maxim Circiumaru
-Student Number: 35644
-
-CSC1021 Operating Systems
-SimpleShell - Stage 1
-*/
 
 #include <stdio.h>  /* input/output functions (printf, fgets, etc.) */
 #include <stdlib.h>  /* general utilities (exit, setenv) */
@@ -73,8 +66,4 @@ setenv("shell", path, 1)  sets shell=/full/path/to/simpleshell.*/
     return 0;
 }
 
-/*
-Name:
-Student Number: 35644
-I confirm this work complies with the DCU Academic Integrity Policy.
-*/
+

@@ -1,11 +1,3 @@
-/*
-Name: Maxim Circiumaru
-Student Number: 35644
-
-CSC1021 Operating Systems
-Utility functions for SimpleShell
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -161,8 +153,4 @@ else
     // If command does not match any internal commands
     printf("Unknown command: %s\n", command); // Inform the user
 }
-/*
-Name: Maxim Circiumaru
-Student Number: 35644
-I confirm this work complies with the DCU Academic Integrity Policy.
-*/
+
